@@ -7,3 +7,5 @@ Key features of my to-do list app includes a visually appealing user interface, 
 
 Here is a sample of my app.
 ![Screenshot 2023-10-20 215952](https://github.com/pradestha/todolistapp/assets/138399569/8644d694-d0d3-41cb-a4ba-6063299481ca)
+![Screenshot 2023-10-20 215921](https://github.com/pradestha/todolistapp/assets/138399569/d0b6efde-dee0-486e-9fa3-d6b4c4d0db34)
+
