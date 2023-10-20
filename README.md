@@ -1,16 +1,9 @@
 # to_do_list_app
-
 A new Flutter project.
 
-## Getting Started
+In my new Flutter project, developed in Visual Studio Code, I've created a versatile to-do list app that provides a seamless and user-friendly experience for managing tasks. Users can easily add new tasks, mark them as complete when finished, and efficiently remove tasks when they're no longer needed. The app empowers users to create an unlimited number of tasks, making it a flexible tool for staying organized and productive.
 
-This project is a starting point for a Flutter application.
+Key features of my to-do list app includes a visually appealing user interface, task checkboxes that allow for easy task completion tracking, and a simple swipe-to-delete functionality for hassle-free task management. The app fosters an efficient and intuitive task management experience, helping users keep track of their daily to-dos and responsibilities. It's a valuable tool for anyone looking to boost their productivity and stay organized while keeping their task list under control. My app offers a practical solution to the age-old problem of task management, all in a beautifully designed, user-friendly package.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here is a sample of my app.
+![Screenshot 2023-10-20 215952](https://github.com/pradestha/todolistapp/assets/138399569/8644d694-d0d3-41cb-a4ba-6063299481ca)
